@@ -43,4 +43,4 @@ while True:
         if tweat_sayisi >= 365:
             print("Tüm tweatler atıldı!")
             break
-        time.sleep(10)
+        time.sleep(15)
